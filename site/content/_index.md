@@ -5,10 +5,11 @@ image: /img/photo_86836_20170320(1).jpg
 blurb:
   heading: Qui est Super Alex ?
   text: >-
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    Jeune développeuse (sa reconversion date d'avril 2017), Super Alex avait
+    envie d'un espace à elle pour tester, rapporter et partager ses trouvailles.
+    Quelles soient en lien avec le développement ou non ! 
+
+    Alors bienvenue dans mon bac à sable !
 intro:
   heading: What we offer
   text: >-
