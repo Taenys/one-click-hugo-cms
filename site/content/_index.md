@@ -11,12 +11,20 @@ blurb:
 
     Alors bienvenue dans mon bac à sable !
 intro:
-  heading: What we offer
+  heading: Pourquoi un bac à sable ?
   text: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+    Il faut bien commencer quelque part ! Et pour tester rien de mieux que le
+    grandeur nature !  
+
+    Vous découvrirez les technos que j'utilise au fur et à mesure !  
+
+    Sachez que je tends à m'orienter vers du full stack javascript, mais que je
+    teste tout ce qui me passe sous la main !   
+
+    Étant en formation sur 2ans pour préparer un bac +4 (yes !), je vais pouvoir
+    partager tout cela avec vous !  
+
+    So -> Enjoy !
 products:
   - image: img/illustrations-coffee.svg
     text: >-
