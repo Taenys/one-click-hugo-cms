@@ -1,7 +1,7 @@
 /* Text colors */
 
 .primary {
-  color: var(--primary);
+  color: #5c388c;
 }
 
 .highlight {
@@ -33,7 +33,7 @@
 }
 
 .black {
-  color: var(--black);
+  color: #9425df;
 }
 
 .bg-primary {
