@@ -37,7 +37,7 @@
 }
 
 .bg-primary {
-  background-color: var(--primary);
+ background-color: #8800ffb3;
 }
 
 .bg-highlight {
@@ -75,6 +75,6 @@
 .bg-fix-primary {
   padding: 0 var(--spacing-small);
   & :first-child {
-    box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
+    box-shadow: .5rem 0 0 #8900ffb3,-.5rem 0 0 #9200ffb3;
   }
 }
