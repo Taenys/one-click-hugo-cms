@@ -14,4 +14,7 @@ Pourquoi tout faire en Javascript me direz-vous ? Et bien le php étant moins ma
 
 Alors commençons par le commencemet !
 
-Installation de Node.js :
+1. Installation de Node.js :
+
+* Facile : un petit [click ici](https://nodejs.org/en/) et c'est parti !
+* Ensuite on a le droit d'ouvrir une console ! (oui le truc sur fond noir qui fais peur ! )
