@@ -28,12 +28,8 @@ intro:
 products:
   - image: /img/21931356_10213691930320258_300667772_o.jpg
     text: Cavalière et développeuse!
-  - image: /img/illustrations-coffee-gear.svg
-    text: >-
-      We offer a small, but carefully curated selection of brewing gear and
-      tools for every taste and experience level. No matter if you roast your
-      own beans or just bought your first french press, you’ll find a gadget to
-      fall in love with in our shop.
+  - image: /img/image(1).png
+    text: Retrouve tout les projets sur lesquels je travaille !
 values:
   heading: Our values
   text: >-
