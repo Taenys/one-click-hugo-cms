@@ -1,11 +1,13 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
+  - heading: Où suis-je ?
+    text: ' Dans un petit village de Picardie, non loin de Pierrefond et de Compiègne. Je suis aussi en région parisienne la plupart du temps'
   - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: >-
+      Je travaille 7/7, sur des projets pro ou perso. Mais je suis aussi en
+      vacances mentales régulièrement. Alors pas d'emploi du temps précis !
 ---
 
 We’d love to get in touch with you and hear your ideas and
