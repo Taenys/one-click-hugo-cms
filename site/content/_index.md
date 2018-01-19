@@ -31,11 +31,9 @@ products:
   - image: /img/image(1).png
     text: Retrouve tout les projets sur lesquels je travaille !
 values:
-  heading: Our values
+  heading: Ma biographie
   text: >-
-    Coffee is an amazing part of human culture but it has a dark side too – one
-    of colonialism and mindless abuse of natural resources and human lives. We
-    want to turn this around and return the coffee trade to the drink’s
-    exhilarating, empowering and unifying nature.
+    Parce que ma vie mérite d'être écrite et lue par le monde entier ! ! (Je
+    m'appelle pas SuperAlex pour rien ! hein!)
 ---
 
