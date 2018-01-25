@@ -1,46 +1,55 @@
 ---
 title: Mes projets
 image: /img/avatar.jpg
-heading: What we offer
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+heading: Un petit tour sur ce que j'ai fait
+description: Apprenez à e connaître à travers mes projets !
 intro:
   blurbs:
     - image: /img/image(2).png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Un des premiers petit projet :
+
+        Il s'agit d'un CodePen, à l'occasion du premier projet à réaliser avec
+        le FreeCodeCamp
+
+        <a href="https://codepen.io/SuperAlex/pen/aEgwQK">Projet 1</a>
     - image: /img/atelier.jpg
-      text: |
-        Voilà les projets sur lesquels j'ai ou je travaille :
+      text: >
+        Celui-ci est mon premier e-commerce fait avec Prestashop. Je l'ai
+        grandement bidouillé au niveau du CSS, pour adapter le thème auprès de
+        mon très exigeant premier client (mon père)! Au fur et à mesure de mon
+        évolution j'ai pu faire évoluer ce site.
+
+        visible ici : http://www.atelierdujardin60.fr
     - image: /img/capture.png
-      text: 'Art Absolut , site d''antiquité'
+      text: >-
+        Art Absolut , site d'antiquité fait avec WordPress. Ici aussi il a
+        fallut adapté un thème, rajouter pas mal de petites fonctions.
+
+        Visible ici : http://antique.artabsolut.com
     - image: /img/creazymin.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
+        Ah mon tout premier e-commerce perso. Pour vendre des bijoux chinés sur
+        le web auprès de producteurs chinois. Mon bac à sable aussi. Maintenant
+        il est malheureusement un peu à l'abandon faute de temps. Mais mon petit
+        doigt m'a dit qu'il deviendrait bientôt un nouveau site e-commerce pour
+        vendre autre chose. Affaire à suivre donc !
+
+        http://creazyshop.fr
+  heading: Je sais pas encore
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    J'ai commencé à travailler sur le web depuis l'année 2017. Pour commencer je
+    me suis aider de la grande bibliothèque qu'est internet et de nombreux
+    tutos. 
+
+    Pour y arriver j'ai aussi coder de petits projets (il faut bien commencer
+    quelque part!), et sont arrivés ensuite des projets de plus grande
+    envergure. Vous pourrez contempler mon évolution ici :
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 'En entreprise j''ai bossé aussi pour eux :'
+  description: |+
+    http://www.arrogant-frog.com/casino/
+
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
