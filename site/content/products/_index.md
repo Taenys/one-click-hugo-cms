@@ -12,7 +12,7 @@ intro:
         Il s'agit d'un CodePen, à l'occasion du premier projet à réaliser avec
         le FreeCodeCamp
 
-        <a href="https://codepen.io/SuperAlex/pen/aEgwQK">Projet 1</a>
+        https://codepen.io/SuperAlex/pen/aEgwQK Projet 1
     - image: /img/atelier.jpg
       text: >
         Celui-ci est mon premier e-commerce fait avec Prestashop. Je l'ai
