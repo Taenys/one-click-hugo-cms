@@ -12,7 +12,7 @@ intro:
         Il s'agit d'un CodePen, à l'occasion du premier projet à réaliser avec
         le FreeCodeCamp
 
-        https://codepen.io/SuperAlex/pen/aEgwQK Projet 1
+        [Projet 1](https://codepen.io/SuperAlex/pen/aEgwQK)
     - image: /img/atelier.jpg
       text: >
         Celui-ci est mon premier e-commerce fait avec Prestashop. Je l'ai
@@ -20,7 +20,7 @@ intro:
         mon très exigeant premier client (mon père)! Au fur et à mesure de mon
         évolution j'ai pu faire évoluer ce site.
 
-        visible ici : http://www.atelierdujardin60.fr
+        visible ici : [Atelier du Jardin 60](http://www.atelierdujardin60.fr)
     - image: /img/capture.png
       text: >-
         Art Absolut , site d'antiquité fait avec WordPress. Ici aussi il a
