@@ -22,3 +22,5 @@ Tu as le choix dans la jungle des IDE :
 
 * celle native de ton ordi
 * cmder : pareil je la préfère, plus joli !
+
+D'autres viendront s'ajouter à cette liste !
